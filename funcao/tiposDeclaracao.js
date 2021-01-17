@@ -9,4 +9,3 @@ function soma (x, y){
 const sub = function (x,y) {
     return x-y
 }
-
