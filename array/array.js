@@ -9,3 +9,12 @@ console.log(aprovados[2])
 console.log(aprovados[3])
 
 aprovados[3] = 'Paulo'
+aprovados.push('Abia')
+
+console.log(aprovados.length)
+
+aprovados.sort() //ordena um array
+
+console.log(aprovados)
+
+delete aprovados[1]
