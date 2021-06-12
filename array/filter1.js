@@ -7,7 +7,7 @@ const produtos = [
 ]
 
 console.log(produtos.filter(function(p){
-    return false
+    return false    
 }))
 
 const caro = produto => produto.preco >=500
